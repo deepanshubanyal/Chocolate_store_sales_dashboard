@@ -1,5 +1,6 @@
 Interactive Dashboard Link
 https://app.powerbi.com/view?r=eyJrIjoiNzU3ZDlhM2UtMTM5Yi00ZWJiLWIxNGEtMTI4YTY4ODVkODZlIiwidCI6ImNmZDdiYWI4LWExYWItNDMxNS1iZTk1LWVkN2YwZDMzMzdiYyJ9
+![pbi_project](https://github.com/user-attachments/assets/fa9e7da3-5487-4647-b8a3-edb912536def)
 
 Key Learnings 
 
